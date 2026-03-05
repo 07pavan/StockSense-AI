@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+plotly
+textblob
+requests
+langchain-groq
+python-dotenv
